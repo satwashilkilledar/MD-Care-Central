@@ -1,0 +1,18 @@
+<RCC>
+  <qresource>
+    <file>bar-graph-horiz.svg</file>
+    <file>doctor_icon.png</file>
+    <file>adminPic.png</file>
+    <file>selectImage.png</file>
+    <file>hospital.png</file>
+    <file>event.jpg</file>
+    <file>dispensary.png</file>
+    <file>bloodbank.png</file>
+    <file>settings.jpg</file>
+    <file>test_2.png</file>
+    <file>test_1.png</file>
+    <file>emergency.png</file>
+    <file>doctor.png</file>
+    <file>sample_event.png</file>
+  </qresource>
+</RCC>
